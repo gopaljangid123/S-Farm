@@ -1,2 +1,2 @@
 # S-Farm
-Smart Farm Mobile Application using IOT in Agricultue
+Smart Farm android application using IOT in agriculture. The project helps the farmer to monitor their farms remotely using their smartphones. The project also predicts the crops to be grown considering the past data and current environment. The Project also automates the irrigation process. It also has disease detection module to detect the disease of the plants which is build using tensorflow.
